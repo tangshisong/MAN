@@ -1,1 +1,1 @@
-# Deep self-Attention Network for news recommendation 
+# Deep Self-Attention Network for news recommendation 
