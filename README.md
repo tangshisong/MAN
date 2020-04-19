@@ -1,1 +1,1 @@
-# Multi-head Attention Network for news recommendation 
+# Deep self-Attention Network for news recommendation 
